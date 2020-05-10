@@ -1,5 +1,6 @@
 This is a file about git hub issues
 Today is May 9 2020
+I love this video series by Rainbow Poet / Dan Schiffman
 Issues - issues is a place to leave a comment about a project
 variety  - bug, when I press this button this crashes, word misspelled, ask questions
 specific question around a particular projects
