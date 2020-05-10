@@ -1,1 +1,11 @@
 This is a file about git hub issues
+Today is May 9 2020
+Issues - issues is a place to leave a comment about a project
+variety  - bug, when I press this button this crashes, word misspelled, ask questions
+specific question around a particular projects
+File issue right at Schiffman -- helping each other
+
+Only person who submitted and issue or owns the repository can close the issue
+
+
+
